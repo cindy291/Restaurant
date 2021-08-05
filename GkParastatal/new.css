@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    text-align: center;
+    size: 56px;
+    font: large;
+
+}
+img{
+    width: 25%;
+    height: 25vh;
+    border-radius: 4px;
+    align-content: right;
+    align-self: 15px;
+}
+button{
+    border-radius: 12px;
+    background-color: blue;
+    padding: 13px;
+}
+body{
+    background-image: url("resources/weater.jpeg");
+}
+.myimage1{
+    width: 9%;
+    height: 10vh;
+    right
+}
+.ttl1{
+    position: absolute;
+    top: 0%;
+    right: 300px;
+}
